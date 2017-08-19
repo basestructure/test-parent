@@ -1,1 +1,2 @@
 Version 1: This is the test parent king.
+Version 2: Created a subparent "branch", moved the head then entered this content.
